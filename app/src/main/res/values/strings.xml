@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shivam-Sood_Comp304_Assignment5</string>
+
+
+    <!--Main Activity -->
+    <string name="headingOne"> Choose a Car Brand </string>
+
+    <string name="honda">Honda</string>
+    <string name="chevrolet">Chevrolet</string>
+    <string name="ford">Ford</string>
+    <string name="nissan">Nissan</string>
+    <string name="toyota">Toyota</string>
+    <string-array name="brand">
+        <item>@string/chevrolet</item>
+        <item>@string/ford</item>
+        <item>@string/honda</item>
+        <item>@string/nissan</item>
+        <item>@string/toyota</item>
+    </string-array>
+
+    <!--Showrooms Activity -->
+    <string name="headingShowroom"> Choose a Location </string>
+    <string name="title_activity_maps">Map</string>
+    <!--LBS Activity -->
+
+</resources>
